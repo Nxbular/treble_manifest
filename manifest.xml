@@ -4,7 +4,6 @@
     <remote name="td" fetch="https://github.com/TrebleDroid/" />
     <remote name="naz" fetch="https://github.com/naz664/" />
     <remote name="acgy" fetch="https://github.com/AndyCGYan/" />
-    <remote name="aosp" fetch="https://github.com/aosp/" />
     <remote name="nxbular" fetch="https://github.com/nxbular/" />
     <remote name="mtg" fetch="https://github.com/MindTheGapps/" />
     <remote name="los" fetch="https://github.com/LineageOS/" />
