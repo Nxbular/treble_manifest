@@ -20,6 +20,5 @@
     
     <project path="prebuilts/vndk/v30" name="platform/prebuilts/vndk/v30" remote="aosp" clone-depth="1" revision="5f9884aa352825291757dfd6694b874ad8c1805e" />
     <project path="LineageOS_gsi" name="Project-Voyager-Razr2019" remote="nxbular" revision="lineage-23.2" />
-    <project path="vendor/gapps" name="vendor_gapps" remote="mtg" revision="baklava" />
     <project path="hardware/oplus" name="android_hardware_oplus" remote="los" revision="lineage-23.2" />
 </manifest>
